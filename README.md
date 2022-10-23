@@ -1,0 +1,1 @@
+This is a simple card game that I coded in c language for my midterm project.
